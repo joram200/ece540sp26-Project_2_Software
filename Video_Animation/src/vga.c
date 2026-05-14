@@ -1,9 +1,9 @@
 /**
- * @file pwm.c
+ * @file vga.c
  * @author Matthew Hardenburgh
- * @brief demonstration code for the pwm peripheral. 
+ * @brief Scrolling the text "Nexys 4 DDR" accross a display using the vga peripheral.
  * @copyright copyright (c) 2026 Matthew Hardenburgh, all rights reserved
- * @date 4/29/26
+ * @date 5/13/26
 */
 #include <stdint.h>
 
